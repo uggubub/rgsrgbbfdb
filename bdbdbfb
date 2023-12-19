@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>JavaScript Console Log Example</title>
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      var message = "Hello, world!";
+      console.log(message);
+    });
+  </script>
+</head>
+<body>
+  <!-- The rest of your HTML content -->
+</body>
+</html>
